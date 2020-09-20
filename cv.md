@@ -33,7 +33,6 @@
 
 ---
 
-- Code-basics JavaScript course
 - Code-basics HTML course
 - Code-basics CSS course
 - Stepik HTML/CSS course
